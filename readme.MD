@@ -5,7 +5,7 @@
 
 - 🎥 Youtube **https://www.youtube.com/@NazaPrograma/videos**
 
-- 👨‍💻 All of my projects are available at [https://nazatarchini.netlify.app/](https://nazatarchini.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nazatarchini.com/](https://nazatarchini.com/)
 
 - 📫 How to reach me **ntarchini.developer@gmail.com**
 
