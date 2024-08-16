@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntarchini99&label=Profile%20views&color=0e75b6&style=flat" alt="ntarchini99" /> </p>
 
+I am a Frontend Developer specialized in HTML5, CSS3, JavaScript and React, along with their libraries. I have knowledge in creating prototypes with Figma, as well as in SEO, servers and web positioning. In addition, I have trained in Cybersecurity with a PENTESTER-oriented approach. Before dedicating myself to programming, I worked as a freelance Community Manager, which allowed me to develop skills in community management and digital strategies. 💼📲
+
 - 👨‍💻 All of my projects are available at [https://nazatarchini.com/](https://nazatarchini.com/)
 
 - 📫 How to reach me **ntarchini.developer@gmail.com**
