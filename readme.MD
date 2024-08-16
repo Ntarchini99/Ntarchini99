@@ -7,10 +7,6 @@ I am a Frontend Developer specialized in HTML5, CSS3, JavaScript and React, alon
 
 - 👨‍💻 All of my projects are available at [https://nazatarchini.com/](https://nazatarchini.com/)
 
-- 📫 How to reach me **ntarchini.developer@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/nazareno-tarchini/](https://www.linkedin.com/in/nazareno-tarchini-bb08a2273/)
-
 ### Contact Me
 <a href="https://www.linkedin.com/in/nazareno-tarchini/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nazareno%20Tarchini-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.tiktok.com/@nazatarchini"><img alt="Tiktok" src="https://img.shields.io/badge/nazatarchini-blue?style=flat-square&logo=tiktok"> </a>  
