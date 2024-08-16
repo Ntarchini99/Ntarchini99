@@ -6,11 +6,11 @@
 I am a Frontend Developer specialized in HTML5, CSS3, JavaScript and React, along with their libraries. I have knowledge in creating prototypes with Figma, as well as in SEO, servers and web positioning. In addition, I have trained in Cybersecurity with a PENTESTER-oriented approach. Before dedicating myself to programming, I worked as a freelance Community Manager, which allowed me to develop skills in community management and digital strategies. 💼📲
 
 - 👨‍💻 All of my projects are available at [https://nazatarchini.com/](https://nazatarchini.com/)
+- 📲 Gmail: ntarchini.developer@gmail.com
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/nazareno-tarchini/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nazareno%20Tarchini-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.tiktok.com/@nazatarchini"><img alt="Tiktok" src="https://img.shields.io/badge/nazatarchini-blue?style=flat-square&logo=tiktok"> </a>  
-<a href="ntarchini.developer@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-ntarchini.developer@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<a href="https://www.tiktok.com/@nazatarchini"><img alt="Tiktok" src="https://img.shields.io/badge/nazatarchini-blue?style=flat-square&logo=tiktok"> </a>   
 
 ### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
