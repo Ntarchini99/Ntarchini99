@@ -11,12 +11,11 @@ I am a Frontend Developer specialized in HTML5, CSS3, JavaScript and React, alon
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nazareno-tarchini/](https://www.linkedin.com/in/nazareno-tarchini-bb08a2273/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nazaltarchini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nazaltarchini" height="30" width="40" /></a>
-<a href="https://instagram.com/nazatarchini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazatarchini" height="30" width="40" /></a>
-<a href="https://discord.gg/Naza Tarchini#1626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Naza Tarchini#1626" height="30" width="40" /></a>
-</p>
+### Contact Me
+<a href="https://www.linkedin.com/in/maurovera/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.youtube.com/channel/UCUORUOKKg8Ezj4tBJb_cRUQ"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Mauro%20Dev-blue?style=flat-square&logo=youtube"></a>
+<a href="https://www.tiktok.com/@devmauro_"><img alt="Tiktok" src="https://img.shields.io/badge/Dev Mauro-blue?style=flat-square&logo=tiktok"></a>  
+<a href="maurovera069@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 ### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
