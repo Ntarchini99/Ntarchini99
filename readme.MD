@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Nazareno Tarchini</h1>
-<h3 align="center">I am a web developer, I live in Argentina.</h3>
+<h1 align="center">Hello, I'm Nazareno Tarchini ✋</h1>
+<h3 align="center">Frontend Developer 🧑‍💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntarchini99&label=Profile%20views&color=0e75b6&style=flat" alt="ntarchini99" /> </p>
-
-- 🎥 Youtube **https://www.youtube.com/@NazaPrograma/videos**
 
 - 👨‍💻 All of my projects are available at [https://nazatarchini.com/](https://nazatarchini.com/)
 
 - 📫 How to reach me **ntarchini.developer@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nazareno-tarchini-bb08a2273/](https://www.linkedin.com/in/nazareno-tarchini-bb08a2273/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/nazareno-tarchini/](https://www.linkedin.com/in/nazareno-tarchini-bb08a2273/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
