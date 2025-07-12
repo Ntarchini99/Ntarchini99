@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntarchini99&label=Profile%20views&color=0e75b6&style=flat" alt="ntarchini99" /> </p>
 
-I am a Frontend Developer specialized in HTML5, CSS3, JavaScript and React, along with their libraries. I have knowledge in creating prototypes with Figma, as well as in SEO, servers and web positioning. In addition, I have trained in Cybersecurity with a PENTESTER-oriented approach. Before dedicating myself to programming, I worked as a freelance Community Manager, which allowed me to develop skills in community management and digital strategies. 💼📲
+💻 I am a Frontend Developer with solid experience in React, Tailwind CSS, JavaScript, TypeScript, and modern tools such as Astro and a variety of frontend libraries.
+I specialize in building efficient, scalable, and visually appealing user interfaces, with a strong focus on clean code and performance optimization.
+
+🚀 I currently lead my own digital agency while also taking on freelance projects, delivering high-quality web solutions tailored to client needs.
+📚 My background includes both self-directed learning and formal training through a bootcamp, and I remain committed to continuous improvement and staying up to date with the latest trends and best practices in web development.
 
 - 👨‍💻 All of my projects are available at [https://nazatarchini.com/](https://nazatarchini.com/)
 - 📩 Email: ntarchini.developer@gmail.com
